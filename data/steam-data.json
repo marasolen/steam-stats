@@ -1,0 +1,506 @@
+[
+    {
+        "title": "Path of Exile",
+        "hours": 213.3,
+        "ownDate": "2013-10-23*",
+        "lastPlayed": "2024-09-03",
+        "achievements": "61/127",
+        "rating": 4,
+        "review": "like Diablo but free, easy to sink hours into"
+    },
+    {
+        "title": "Divinity: Original Sin II",
+        "hours": 210.9,
+        "ownDate": "2018-04-13",
+        "lastPlayed": "2020-01-05",
+        "achievements": "56/97",
+        "rating": 5,
+        "review": "turn-based RPG with good story and great mechanics"
+    },
+    {
+        "title": "War Thunder",
+        "hours": 106.9,
+        "ownDate": "2013-08-15",
+        "lastPlayed": "2019-06-18",
+        "achievements": "11/88",
+        "rating": 1,
+        "review": "oh god I don't want to think about it, probably put in more hours off Steam too"
+    },
+    {
+        "title": "STAR WARS Jedi: Survivor",
+        "hours": 93.3,
+        "ownDate": "2023-03-31",
+        "lastPlayed": "2024-11-30",
+        "achievements": "49/53",
+        "rating": 5,
+        "review": "personally loved it and had almost no bugs, excellent story and visuals and fun gameplay"
+    },
+    {
+        "title": "Warframe",
+        "hours": 81.9,
+        "ownDate": "2013-03-25",
+        "lastPlayed": "2022-06-09",
+        "achievements": "93/193",
+        "rating": 3,
+        "review": "haven't played in a while but was pretty fun with lots of content"
+    },
+    {
+        "title": "Hearts of Iron IV",
+        "hours": 72.2,
+        "ownDate": "2018-06-03",
+        "lastPlayed": "2019-09-19",
+        "achievements": "0/249",
+        "rating": 2,
+        "review": "was sorta fun with friends but could never really get into it"
+    },
+    {
+        "title": "PUBG: Battlegrounds",
+        "hours": 85.2,
+        "ownDate": "2017-12-07",
+        "lastPlayed": "2018-05-18",
+        "achievements": "6/37",
+        "rating": 2,
+        "review": "I suck at shooters but battle royales were a fun new thing to play with friends at the time"
+    },
+    {
+        "title": "Sid Meier's|Civilization VI",
+        "hours": 61.8,
+        "ownDate": "2018-01-15",
+        "lastPlayed": "2021-03-28",
+        "achievements": "39/320",
+        "rating": 3,
+        "review": "couldn't quite get into it like I could the previous in the series"
+    },
+    {
+        "title": "Baldur's Gate 3",
+        "hours": 50.9,
+        "ownDate": "2020-10-06",
+        "lastPlayed": "2025-04-14",
+        "achievements": "13/54",
+        "rating": 5,
+        "review": "great gameplay and story, lots of class variety, still making my way through"
+    },
+    {
+        "title": "Divinity: Original Sin",
+        "hours": 46.4,
+        "ownDate": "2020-06-29",
+        "lastPlayed": "2022-08-20",
+        "achievements": "25/54",
+        "rating": 4,
+        "review": "a bit clunkier and more drawn out than the second game in the series"
+    },
+    {
+        "title": "STAR WARS Jedi: Fallen Order",
+        "hours": 43.9,
+        "ownDate": "2022-12-17",
+        "lastPlayed": "2024-05-07",
+        "achievements": "29/39",
+        "rating": 4,
+        "review": "introduces great new characters and lore to Star Wars, fun gameplay too"
+    },
+    {
+        "title": "PlateUp!",
+        "hours": 41.4,
+        "ownDate": "2022-08-28",
+        "lastPlayed": "2024-05-24",
+        "achievements": "17/26",
+        "rating": 4,
+        "review": "super fun and chaotic, if you liked Overcooked you'll like this (I think it's better)"
+    },
+    {
+        "title": "Borderlands 2",
+        "hours": 34.3,
+        "ownDate": "2019-05-16",
+        "lastPlayed": "2019-06-17",
+        "achievements": "29/75",
+        "rating": 3,
+        "review": "always wanted to play this as a kid, finally did and it was alright"
+    },
+    {
+        "title": "Sid Meier's|Civilization V",
+        "hours": 32,
+        "ownDate": "2016-10-21",
+        "lastPlayed": "2021-01-31",
+        "achievements": "11/286",
+        "rating": 4,
+        "review": "played this a ton before getting it on steam, super fun, the ideal Civ game for me"
+    },
+    {
+        "title": "Factorio",
+        "hours": 31.9,
+        "ownDate": "2024-01-02",
+        "lastPlayed": "2024-01-15",
+        "achievements": "9/88",
+        "rating": 3,
+        "review": "I appreciate this game but it's just a bit too much for me, I don't have time to learn games as much anymore"
+    },
+    {
+        "title": "Dysmantle",
+        "hours": 30.3,
+        "ownDate": "2022-01-04",
+        "lastPlayed": "2022-01-09",
+        "achievements": "15/34",
+        "rating": 4,
+        "review": "really surprisingly cool story and addictive gameplay, a tiny bit drawn out at the end"
+    },
+    {
+        "title": "BattleBit|Remastered",
+        "hours": 29.2,
+        "ownDate": "2023-06-25",
+        "lastPlayed": "2023-07-30",
+        "achievements": "0/0",
+        "rating": 4,
+        "review": "really brought me back to my Battlefield 3 days, clearly comes from some devs who truly care about good shooters"
+    },
+    {
+        "title": "Blacklight: Retribution",
+        "hours": 28.7,
+        "ownDate": "2012-07-02*",
+        "lastPlayed": "2014-02-15",
+        "achievements": "6/25",
+        "rating": 2,
+        "review": "it was free at a time when my parents would never buy me games, otherwise would not recommend"
+    },
+    {
+        "title": "Dying Light",
+        "hours": 27.6,
+        "ownDate": "2018-12-16",
+        "lastPlayed": "2022-03-16",
+        "achievements": "34/78",
+        "rating": 4,
+        "review": "good movement and weapon mechanics, have some really good memories playing with friends"
+    },
+    {
+        "title": "Dungeon of the|ENDLESS",
+        "hours": 27.2,
+        "ownDate": "2017-12-01",
+        "lastPlayed": "2018-12-13",
+        "achievements": "8/33",
+        "rating": 4,
+        "review": "great little roguelite to play with friends"
+    },
+    {
+        "title": "Colony Survival",
+        "hours": 23.9,
+        "ownDate": "2019-06-25",
+        "lastPlayed": "2019-08-02",
+        "achievements": "0/50",
+        "rating": 3,
+        "review": "really enjoyed watching some youtubers play it but on my own it got dry"
+    },
+    {
+        "title": "Dark Souls III",
+        "hours": 23.8,
+        "ownDate": "2016-04-11*",
+        "lastPlayed": "2019-12-31",
+        "achievements": "15/43",
+        "rating": 2,
+        "review": "I appreciate it for what it is but I am just not a souls enjoyer"
+    },
+    {
+        "title": "The Elder Scrolls V: Skyrim",
+        "hours": 23.7,
+        "ownDate": "2022-12-25",
+        "lastPlayed": "2023-01-09",
+        "achievements": "22/75",
+        "rating": 4,
+        "review": "obviously played so much as a kid on Playstation, really amazing game for me personally to see stuff in the distance and actually walk to it"
+    },
+    {
+        "title": "Planet Crafter",
+        "hours": 22.8,
+        "ownDate": "2024-10-12",
+        "lastPlayed": "2024-11-31",
+        "achievements": "47/55",
+        "rating": 3,
+        "review": "clunky game with some awkward waiting bits but not too long and fun with a friend"
+    },
+    {
+        "title": "RimWorld",
+        "hours": 20.4,
+        "ownDate": "2020-05-02",
+        "lastPlayed": "2022-04-08",
+        "achievements": "0/0",
+        "rating": 5,
+        "review": "absolute classic indie game, the number of hours would be much higher if it counted when I played the pirated version"
+    },
+    {
+        "title": "Satisfactory",
+        "hours": 15.1,
+        "ownDate": "2023-12-31",
+        "lastPlayed": "2024-09-14",
+        "achievements": "3/44",
+        "rating": 3,
+        "review": "played in beta, got really annoyed with bugs that just completely blocked me, never played the full game"
+    },
+    {
+        "title": "Warhammer: Vermintide 2",
+        "hours": 13.6,
+        "ownDate": "2019-05-30",
+        "lastPlayed": "2022-11-21",
+        "achievements": "14/26",
+        "rating": 2,
+        "review": "gets stale fast, story is too easy, but sometimes it's satisfying to just smash some vermin you know?"
+    },
+    {
+        "title": "Don't Starve|Together",
+        "hours": 13.2,
+        "ownDate": "2019-01-05",
+        "lastPlayed": "2023-04-07",
+        "achievements": "0/0",
+        "rating": 2,
+        "review": "seems fun but the game doesn't tell you anything and constantly dieing is just too frustrating for me"
+    },
+    {
+        "title": "Titan Quest",
+        "hours": 12.5,
+        "ownDate": "2018-07-06",
+        "lastPlayed": "2019-07-27",
+        "achievements": "5/115",
+        "rating": 3,
+        "review": "cool classic style game with some fun builds, but always got boring a bit too fast"
+    },
+    {
+        "title": "Return of the|Obra Dinn",
+        "hours": 11.7,
+        "ownDate": "2019-07-10",
+        "lastPlayed": "2022-01-20",
+        "achievements": "14/16",
+        "rating": 5,
+        "review": "the best puzzle game I've ever played, cannot recommend more"
+    },
+    {
+        "title": "Sonic Adventure DX",
+        "hours": 10.5,
+        "ownDate": "2025-02-05",
+        "lastPlayed": "2025-03-10",
+        "achievements": "7/15",
+        "rating": 2,
+        "review": "playing for nostalgia but wow this game is janky, and 1/6 of it is a FISHING MINI GAME WITH BIG THE CAT???"
+    },
+    {
+        "title": "Astroneer",
+        "hours": 9.6,
+        "ownDate": "2024-12-03",
+        "lastPlayed": "2025-01-04",
+        "achievements": "27/56",
+        "rating": 3,
+        "review": "really cute game but super awkward controls and progression got a bit stale for me"
+    },
+    {
+        "title": "Sniper Elite 4",
+        "hours": 8.6,
+        "ownDate": "2018-08-03",
+        "lastPlayed": "2019-02-10",
+        "achievements": "8/85",
+        "rating": 3,
+        "review": "perhaps gimmicky, but sometimes it's fun to explode a testicle in slow motion"
+    },
+    {
+        "title": "Crea",
+        "hours": 8.3,
+        "ownDate": "2019-08-08",
+        "lastPlayed": "2019-08-09",
+        "achievements": "9/49",
+        "rating": 2,
+        "review": "just a sad Terraria clone"
+    },
+    {
+        "title": "7 Days to Die",
+        "hours": 8,
+        "ownDate": "2018-10-09",
+        "lastPlayed": "2020-02-23",
+        "achievements": "15/43",
+        "rating": 3,
+        "review": "extremely janky but a game that makes you come back every few years, played a ton off Steam"
+    },
+    {
+        "title": "Far Cry 5",
+        "hours": 7.5,
+        "ownDate": "2021-08-07",
+        "lastPlayed": "2021-08-14",
+        "achievements": "0/72",
+        "rating": 3,
+        "review": "initially played a ton off Steam, but it's pretty dry, much worse than Far Cry 3/4 in my opinion"
+    },
+    {
+        "title": "Sonic Adventure 2",
+        "hours": 7.3,
+        "ownDate": "2025-03-11",
+        "lastPlayed": "2025-04-14",
+        "achievements": "4/15",
+        "rating": 3,
+        "review": "much less buggy than the first game, so nostalgic and fun, but still a bit of a mess"
+    },
+    {
+        "title": "Garry's Mod",
+        "hours": 6.7,
+        "ownDate": "2017-12-01",
+        "lastPlayed": "2019-05-20",
+        "achievements": "3/29",
+        "rating": 3,
+        "review": "it kind of is what you make of it, could be great could be nothing, for me it was just okay"
+    },
+    {
+        "title": "No Man's Sky",
+        "hours": 6.6,
+        "ownDate": "2016-08-09",
+        "lastPlayed": "2019-08-08",
+        "achievements": "4/27",
+        "rating": 2,
+        "review": "one of the sad people who played this game near release when it had no content, never really gave it a second chance"
+    },
+    {
+        "title": "Fallout 4",
+        "hours": 6.3,
+        "ownDate": "2018-07-04",
+        "lastPlayed": "2022-06-11",
+        "achievements": "7/84",
+        "rating": 3,
+        "review": "played a lot off Steam, it was okay but a bit too clunky for me to truly enjoy"
+    },
+    {
+        "title": "Besiege",
+        "hours": 5.6,
+        "ownDate": "2018-05-17",
+        "lastPlayed": "2018-05-19",
+        "achievements": "0/50",
+        "rating": 3,
+        "review": "cute game, not sure I have the creative drive to put a ton of hours in though"
+    },
+    {
+        "title": "For the King",
+        "hours": 5.1,
+        "ownDate": "2019-05-02",
+        "lastPlayed": "2020-03-23",
+        "achievements": "15/78",
+        "rating": 3,
+        "review": "honestly seems great but I just never got into it, no real reason why"
+    },
+    {
+        "title": "Mechabellum",
+        "hours": 5,
+        "ownDate": "2023-06-25",
+        "lastPlayed": "2023-06-29",
+        "achievements": "0/0",
+        "rating": 3,
+        "review": "really good game but came into my life when I was struggling to enjoy games"
+    },
+    {
+        "title": "Q.U.B.E. 2",
+        "hours": 4.6,
+        "ownDate": "2019-01-05",
+        "lastPlayed": "2019-01-06",
+        "achievements": "13/29",
+        "rating": 3,
+        "review": "average little puzzle game"
+    },
+    {
+        "title": "CardLife",
+        "hours": 3.4,
+        "ownDate": "2018-12-08",
+        "lastPlayed": "2019-01-05",
+        "achievements": "0/0",
+        "rating": 2,
+        "review": "cute game, cursed to have tried it in early access when there wasn't much content"
+    },
+    {
+        "title": "Dungeons III",
+        "hours": 3.2,
+        "ownDate": "2018-10-09",
+        "lastPlayed": "2019-03-02",
+        "achievements": "8/60",
+        "rating": 3,
+        "review": "super weird story if I remember correctly, I see it won a labour of love award so maybe worth trying again"
+    },
+    {
+        "title": "Rogue Tower",
+        "hours": 3.1,
+        "ownDate": "2022-02-11",
+        "lastPlayed": "2022-02-19",
+        "achievements": "5/140",
+        "rating": 3,
+        "review": "just your average roguelike tower defense"
+    },
+    {
+        "title": "Super Auto Pets",
+        "hours": 3,
+        "ownDate": "2021-09-24*",
+        "lastPlayed": "2022-01-21",
+        "achievements": "0/0",
+        "rating": 3,
+        "review": "fun but could never really care enough to get into it"
+    },
+    {
+        "title": "Counter Strike 2",
+        "hours": 3,
+        "ownDate": "2012-08-21*",
+        "lastPlayed": "2019-07-31",
+        "achievements": "0/1",
+        "rating": 2,
+        "review": "oh my god this game is not for me, maybe would have liked it more as a kid"
+    },
+    {
+        "title": "Turnip Boy|Commits Tax Evasion",
+        "hours": 2.8,
+        "ownDate": "2022-12-01",
+        "lastPlayed": "2022-12-19",
+        "achievements": "37/37",
+        "rating": 5,
+        "review": "really short but fun game, actually made me want to get all the achievements"
+    },
+    {
+        "title": "Stardew Valley",
+        "hours": 2.8,
+        "ownDate": "2020-04-16",
+        "lastPlayed": "2021-09-25",
+        "achievements": "0/49",
+        "rating": 4,
+        "review": "high rating because I watched a ton on youtube, but could never get into it myself after that"
+    },
+    {
+        "title": "Zombie Army|Trilogy",
+        "hours": 2.7,
+        "ownDate": "2018-12-08",
+        "lastPlayed": "2019-02-09",
+        "achievements": "12/68",
+        "rating": 3,
+        "review": "classic, played a lot off Steam as a kid, just popping zombie heads"
+    },
+    {
+        "title": "Borderlands: The Pre-Sequel",
+        "hours": 2.4,
+        "ownDate": "2019-05-19",
+        "lastPlayed": "2021-08-14",
+        "achievements": "4/63",
+        "rating": 2,
+        "review": "did not get me like Borderlands 2"
+    },
+    {
+        "title": "Vampire Survivors",
+        "hours": 2.4,
+        "ownDate": "2022-05-18",
+        "lastPlayed": "2022-05-19",
+        "achievements": "26/228",
+        "rating": 5,
+        "review": "got all achievements on the mobile version, this game basically started a new trend of 'survivor-likes'"
+    },
+    {
+        "title": "Among Us",
+        "hours": 2.3,
+        "ownDate": "2020-11-13",
+        "lastPlayed": "2021-06-25",
+        "achievements": "0/33",
+        "rating": 3,
+        "review": "way more fun to watch than to actually play"
+    },
+    {
+        "title": "Stronghold|Kingdoms",
+        "hours": 2.3,
+        "ownDate": "2012-02-27*",
+        "lastPlayed": "2013-04-08",
+        "achievements": "0/0",
+        "rating": 1,
+        "review": "genuinely have no memory of this game, apparently I played it over 12 years ago"
+    }
+]

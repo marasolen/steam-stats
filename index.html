@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html style="height: 100vh;">
+    <head>
+        <title>Steam Stats</title>
+        <meta charset="UTF-8">
+        <link rel="icon" href="images/favicon.png">
+        <link rel="stylesheet" href="styles.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    </head>
+    <body style="margin: 0; min-height: 100vh;">
+        <div class="column">
+            <h1 style="text-align: center; margin-bottom: 0; font-weight: 500;">Steam Video Game Stats</h1>
+            <div style="text-align: center;">
+                <p style="padding: 0; margin-top: 0;">April 26, 2025</p>
+                <p style="padding-top: 0; margin-top: 0;">Mara Solen</p>
+            </div>
+            <p>
+                I've been playing video games on a bunch of different consoles since I was a kid, including Playstation 2/3, Gamecube, Wii, Switch, Gameboy, and DS. I also play games
+                on my computer, mostly through the Steam platform. When I was younger, my parents would rarely buy me the games that my friends were playing, so I would have to find 
+                free games or pirate paid ones. Since I started getting my own jobs and having my own money, I've been able to actually buy games and game bundles, and now I have 
+                almost 600 games owned on Steam!
+            </p>
+            <p>
+                I decided to look back through the games I've played on Steam, with the criterium that I have to have played it for at least two hours, resulting in 56 games. I've
+                made a visualization of these games below, where each game is represented by a disc, ordered by the number of hours I've played the game. The colour of the inner ring 
+                shows how much I liked it (green meaning I liked it, purple meaning I did not like it). The little dots on that inner ring represent the number of hours I played the 
+                game, with each dot representing 10 hours. The size of the middle ring represents how many achievements I got in the game, with it filling up the disc more the more
+                achievements I got. Finally, the ring-like "scratches" in the disk represent the time between owning the game and the last time I played it. I've also written a one
+                sentence review of each game which is below each disc.  
+            </p>
+        </div>
+
+        <div id="disc-visualization-container" class="visualization-container" first-render="true">
+        </div>
+
+        <div class="column">
+            <p>
+                Looking back on these games reminded me how amazing some of them are. Here are three that many
+                people probably haven't heard about but that I would highly recommend!
+            </p>
+            <img src="images/dos2.jpg" style="border-radius: 1em;">
+            <p class="caption" style="text-align: center; font-weight: 600;">
+                Divinity: Original Sin II
+            </p>
+            <p class="caption" style="text-align: center;">
+                I would call this my favourite game of all time. The gameplay, story, visuals, and everything else is all amazing. It helps that I also played this game many times
+                through with different groups of friends, so I have a lot of good memories of funny or cool moments from that. It is rare that I play a story-based game multiple
+                times, and even rarer that I care to try to beat a game on hard difficulties, but I did both with this game.
+            </p>
+        </div>
+
+        <div class="column">
+            <p>
+            </p>
+            <img src="images/rotod.jpg" style="border-radius: 1em;">
+            <p class="caption" style="text-align: center; font-weight: 600;">
+                Return of the Obra Dinn
+            </p>
+            <p class="caption" style="text-align: center;">
+                In this game, you are an inspector for an insurance company. One of the ships your company insured floats into the harbour, and the entire crew is dead or missing.
+                Your job is to determine the fate of every single crew member. You have a special watch that lets you go back in time to the moment of a crew member's death - if
+                you can find their body. You also have a list of crew members with their names and roles, as well as a couple pictures of the crew together. Every time you guess
+                three crew members correctly, the game confirms them for you, and it is so satisfying when it does. Going back through time to relive what the crew experienced at
+                sea is so engaging, and the puzzles are so carefully crafted. The visuals are also amazing, with the entire game only using two colours for pixels!
+            </p>
+        </div>
+        
+        <div class="column">
+            <p>
+                
+            </p>
+            <img src="images/tbcte.jpg" style="border-radius: 1em;">
+            <p class="caption" style="text-align: center; font-weight: 600;">
+                Turnip Boy Commits Tax Evasion
+            </p>
+            <p class="caption" style="text-align: center;">
+                I have loved Legend of Zelda games for a very long time. This game is not a Legend of Zelda game, but it really reminds me of the older top-down style Zelda games. It
+                has some fighting, lots of little side quests, an open map that you gradually explore more and more of, and lots of funny characters. It's a really short game, but that
+                just means that it is easy to find time to see all the little secrets and get all the achievements, which I did!
+            </p>
+        </div>
+
+        <div id="tooltip"></div>
+        
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js "></script>>
+        <script src="https://d3js.org/d3.v7.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/dayjs@1/plugin/dayOfYear.js"></script>
+        <script src="main.js"></script>
+    </body>
+</html>
